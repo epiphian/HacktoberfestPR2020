@@ -1,3 +1,5 @@
+# That was quite mean of you to archive the project without any notifications, while some PRs were still in 14 days review period. Basically everyone's PRs made after October 20 were not counted for hacktoberfest. And there were no chance to change this after November 1. 
+
 # HacktoberFest2020 Starter Project 
 
 ![Hacktoberfest 2020](hacktoberfest2020.png)
